@@ -1,0 +1,2399 @@
+
+[
+    {
+        "id": 1,
+        "name": "Abu Sayeed",
+        "age": 22,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "In front of BRU",
+        "date": "July 16"
+    },
+    {
+        "id": 2,
+        "name": "Asif",
+        "age": 23,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Uttara Modern Medical College Hospital, Uttara",
+        "date": "July 18"
+    },
+    {
+        "id": 3,
+        "name": "Mohammad Faruk",
+        "age": 32,
+        "occupation": "Furniture shop worker",
+        "cause_of_death": "Shot",
+        "location": "Chattogram Medical College Hospital, Muradpur, Chattogram",
+        "date": "July 16"
+    },
+    {
+        "id": 4,
+        "name": "Mohammad Wasim",
+        "age": 22,
+        "occupation": "Chattogram College Student",
+        "cause_of_death": "Injured",
+        "location": "Chattogram Medical College Hospital, Muradpur, Chattogram",
+        "date": "July 16"
+    },
+    {
+        "id": 5,
+        "name": "Faisal Ahmed",
+        "age": 20,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Chattogram Medical College, Muradpur, Chattogram",
+        "date": "July 16"
+    },
+    {
+        "id": 6,
+        "name": "Mohammad Shahjahan",
+        "age": 25,
+        "occupation": "Cloth shop worker",
+        "cause_of_death": "Injured",
+        "location": "Brother Noorun Nabi, Science Laboratory, Dhaka",
+        "date": "July 16"
+    },
+    {
+        "id": 7,
+        "name": "Sabuj Ali",
+        "age": 25,
+        "occupation": "Student",
+        "cause_of_death": "Injured",
+        "location": "Dhaka Medical College Hospital, opposite Dhaka College",
+        "date": "July 16"
+    },
+    {
+        "id": 8,
+        "name": "Sakil",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Uttara Modern Medical College Hospital, Uttara",
+        "date": "July 18"
+    },
+    {
+        "id": 9,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Uttara Modern Medical College Hospital, Uttara",
+        "date": "July 18"
+    },
+    {
+        "id": 10,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Uttara Modern Medical College Hospital, Uttara",
+        "date": "July 18"
+    },
+    {
+        "id": 11,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Uttara Modern Medical College Hospital, Uttara",
+        "date": "July 18"
+    },
+    {
+        "id": 12,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Uttara Modern Medical College Hospital, Uttara",
+        "date": "July 18"
+    },
+    {
+        "id": 13,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Bangladesh-Kuwait Friendship Hospital, Uttara",
+        "date": "July 18"
+    },
+    {
+        "id": 14,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Bangladesh-Kuwait Friendship Hospital, Uttara",
+        "date": "July 18"
+    },
+    {
+        "id": 15,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Bangladesh-Kuwait Friendship Hospital, Uttara",
+        "date": "July 18"
+    },
+    {
+        "id": 16,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Bangladesh-Kuwait Friendship Hospital, Uttara",
+        "date": "July 18"
+    },
+    {
+        "id": 17,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Red Crescent Hospital, Uttara",
+        "date": "July 18"
+    },
+    {
+        "id": 18,
+        "name": "Farhan Foyez Ratul",
+        "age": 17,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "City Hospital, Uttara",
+        "date": "July 18"
+    },
+    {
+        "id": 19,
+        "name": "Hasan Mehedi",
+        "age": "not found yet",
+        "occupation": "Journalist",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Kazla, Jatrabari",
+        "date": "July 18"
+    },
+    {
+        "id": 20,
+        "name": "Wasim Sheikh",
+        "age": 30,
+        "occupation": "not found yet",
+        "cause_of_death": "Injured",
+        "location": "Dhaka Medical College Hospital, Jatrabari, Fish Store",
+        "date": "July 18"
+    },
+    {
+        "id": 21,
+        "name": "Nazmul Kazi",
+        "age": "20/22",
+        "occupation": "not found yet",
+        "cause_of_death": "Injured",
+        "location": "Dhaka Medical College Hospital, Jatrabari",
+        "date": "July 18"
+    },
+    {
+        "id": 22,
+        "name": "Mohammad",
+        "age": 20,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Azimpur",
+        "date": "July 18"
+    },
+    {
+        "id": 23,
+        "name": "Unknown",
+        "age": 30,
+        "occupation": "Rickshaw puller",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Jatrabari",
+        "date": "July 18"
+    },
+    {
+        "id": 24,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Faraji Hospital, Rampura",
+        "date": "July 18"
+    },
+    {
+        "id": 25,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Faraji Hospital, Rampura",
+        "date": "July 18"
+    },
+    {
+        "id": 26,
+        "name": "Unknown",
+        "age": 18,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Chattogram Medical College, Bahaddarhat",
+        "date": "July 18"
+    },
+    {
+        "id": 27,
+        "name": "Unknown",
+        "age": 22,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Chattogram Medical College, Bahaddarhat",
+        "date": "July 18"
+    },
+    {
+        "id": 28,
+        "name": "Ashabul Yamin",
+        "age": 20,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Enam Medical College, Savar",
+        "date": "July 18"
+    },
+
+    {
+        "id": 29,
+        "name": "Tamhid Tamim",
+        "age": 15,
+        "occupation": "School Student",
+        "cause_of_death": "Shot",
+        "location": "100 Bed Hospital, Narsingdi",
+        "date": "July 18"
+    },
+    {
+        "id": 30,
+        "name": "Imon Mia",
+        "age": 22,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Narsingdi Sadar Hospital, Narsingdi",
+        "date": "July 18"
+    },
+    {
+        "id": 31,
+        "name": "Dipto Dey",
+        "age": 21,
+        "occupation": "Student",
+        "cause_of_death": "not found yet",
+        "location": "Madaripur College, Lake Side, Madaripur",
+        "date": "July 18"
+    },
+    {
+        "id": 32,
+        "name": "Roudro Sen",
+        "age": 22,
+        "occupation": "Student",
+        "cause_of_death": "not found yet",
+        "location": "SUST, Police Lake Area, Surma Gate Point",
+        "date": "July 18"
+    },
+    {
+        "id": 33,
+        "name": "Manik Mia",
+        "age": 40,
+        "occupation": "Rickshaw Puller",
+        "cause_of_death": "Shot",
+        "location": "Rangpur Medical College Hospital, behind Police Station",
+        "date": "July 18"
+    },
+    {
+        "id": 34,
+        "name": "Sakil Hossain",
+        "age": 22,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 18"
+    },
+    {
+        "id": 35,
+        "name": "Imran",
+        "age": 24,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Jatrabari",
+        "date": "July 18"
+    },
+    {
+        "id": 36,
+        "name": "Abdullah",
+        "age": 15,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Jatrabari",
+        "date": "July 18"
+    },
+    {
+        "id": 37,
+        "name": "Saimun Siam",
+        "age": 25,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Jatrabari",
+        "date": "July 18"
+    },
+    {
+        "id": 38,
+        "name": "Ismail",
+        "age": 35,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Dhaka",
+        "date": "July 18"
+    },
+    {
+        "id": 39,
+        "name": "Khalid Saifullah",
+        "age": 18,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Azimpur Staff Quarter, Dhaka",
+        "date": "July 18"
+    },
+    {
+        "id": 40,
+        "name": "Dulal Matobbor",
+        "age": "not found yet",
+        "occupation": "Microbus Driver",
+        "cause_of_death": "Shot",
+        "location": "Merul Badda",
+        "date": "July 18"
+    },
+    {
+        "id": 41,
+        "name": "Zillur Rahman",
+        "age": 17,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Imperial College, shot near BRAC University Area",
+        "date": "July 18"
+    },
+    {
+        "id": 42,
+        "name": "Roudro Sen",
+        "age": "20/22",
+        "occupation": "Student",
+        "cause_of_death": "not found yet",
+        "location": "Lake Side, Akhalia",
+        "date": "July 18"
+    },
+    {
+        "id": 43,
+        "name": "Hossain",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Banshtola, Badda",
+        "date": "July 18"
+    },
+    {
+        "id": 44,
+        "name": "Mohammad Sakil Hossain",
+        "age": "not found yet",
+        "occupation": "Journalist",
+        "cause_of_death": "Shot",
+        "location": "Daily Bhorer Awaz, Gacha Thana, Gazipur",
+        "date": "July 18"
+    },
+    {
+        "id": 45,
+        "name": "Rakib Hossain",
+        "age": 22,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Aftabnagar",
+        "date": "July 19"
+    },
+    {
+        "id": 46,
+        "name": "Goni Sheikh",
+        "age": 45,
+        "occupation": "Worker",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Shahjadpur",
+        "date": "July 19"
+    },
+    {
+        "id": 47,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Kazla",
+        "date": "not found yet"
+    },
+    {
+        "id": 48,
+        "name": "Sohag",
+        "age": 19,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Shahjadpur",
+        "date": "July 19"
+    },
+    {
+        "id": 49,
+        "name": "Arif",
+        "age": 18,
+        "occupation": "Shop Worker",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Jatrabari, Kazla",
+        "date": "July 19"
+    },
+    {
+        "id": 50,
+        "name": "Santu",
+        "age": 20,
+        "occupation": "Shop Worker",
+        "cause_of_death": "Shot",
+        "location": "Jatrabari, Kazla",
+        "date": "July 19"
+    },
+    {
+        "id": 51,
+        "name": "Rabbi",
+        "age": 27,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Abu Taleb School",
+        "date": "July 19"
+    },
+    {
+        "id": 52,
+        "name": "Adud",
+        "age": 40,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "China Building, Newmarket",
+        "date": "July 19"
+    },
+    {
+        "id": 53,
+        "name": "Pavel",
+        "age": 25,
+        "occupation": "Shop Worker",
+        "cause_of_death": "Shot",
+        "location": "Shahbagh, Dhaka Medical College Hospital, Polton",
+        "date": "July 19"
+    },
+    {
+        "id": 54,
+        "name": "Mobarok",
+        "age": 32,
+        "occupation": "Shop Worker",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Kadamtali",
+        "date": "July 19"
+    },
+    {
+        "id": 55,
+        "name": "Akram Khan Rabbi",
+        "age": 24,
+        "occupation": "Student",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 56,
+        "name": "Jihad",
+        "age": 22,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Shonir Akhra",
+        "date": "July 19"
+    },
+    {
+        "id": 57,
+        "name": "Dulal Mohammad Dolon",
+        "age": 40,
+        "occupation": "Banker",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Azimpur",
+        "date": "July 19"
+    },
+    {
+        "id": 58,
+        "name": "Unknown",
+        "age": 18,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Batara",
+        "date": "July 19"
+    },
+    {
+        "id": 59,
+        "name": "Omar Faruk",
+        "age": 23,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Lakshmibazar, Dhaka",
+        "date": "July 19"
+    },
+    {
+        "id": 60,
+        "name": "Abdul Wadud",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 61,
+        "name": "Maruf Hossain",
+        "age": 25,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 62,
+        "name": "Mehedi Hasan",
+        "age": 20,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 63,
+        "name": "Saiful Islam",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 64,
+        "name": "Unknown",
+        "age": 25,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 65,
+        "name": "Rabiu Islam",
+        "age": 30,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 66,
+        "name": "Ismail",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 67,
+        "name": "Kamal Mia/Jalal Mia",
+        "age": 45,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 68,
+        "name": "Nabin Talukdar",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 69,
+        "name": "Imon",
+        "age": 25,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 70,
+        "name": "Sohel",
+        "age": 35,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 71,
+        "name": "Unknown",
+        "age": 22,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 72,
+        "name": "Shawon",
+        "age": "24/25",
+        "occupation": "Student",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital, China Building, Newmarket",
+        "date": "July 19"
+    },
+    {
+        "id": 73,
+        "name": "Parvez",
+        "age": 23,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 74,
+        "name": "Mamun Sardar",
+        "age": "34/27",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 75,
+        "name": "Shovon",
+        "age": 25,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "China Building, Newmarket",
+        "date": "July 19"
+    },
+    {
+        "id": 76,
+        "name": "Redwan",
+        "age": 22,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Bangabandhu, Kamarpur",
+        "date": "July 19"
+    },
+    {
+        "id": 77,
+        "name": "Sharif",
+        "age": 23,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Bangabandhu, Kamarpur",
+        "date": "July 19"
+    },
+    {
+        "id": 78,
+        "name": "Raed",
+        "age": 22,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Bangabandhu, Kamarpur",
+        "date": "July 19"
+    },
+    {
+        "id": 79,
+        "name": "Rana",
+        "age": 15,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "not found yet",
+        "date": "July 19"
+    },
+    {
+        "id": 80,
+        "name": "Sohag Molla",
+        "age": "not found yet",
+        "occupation": "PA to Mayor",
+        "cause_of_death": "Shot",
+        "location": "Uttara",
+        "date": "July 19"
+    },
+    {
+        "id": 81,
+        "name": "Munsur",
+        "age": 40,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 82,
+        "name": "Sharif",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 83,
+        "name": "Russell",
+        "age": "not found yet",
+        "occupation": "Student",
+        "cause_of_death": "not found yet",
+        "location": "Farazi Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 84,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Farazi Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 85,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Farazi Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 86,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "B Life H",
+        "date": "July 19"
+    },
+    {
+        "id": 87,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "SSMC",
+        "date": "July 19"
+    },
+    {
+        "id": 88,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "SSMC",
+        "date": "July 19"
+    },
+    {
+        "id": 89,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "SSMC",
+        "date": "July 19"
+    },
+    {
+        "id": 90,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "SSMC",
+        "date": "July 19"
+    },
+    {
+        "id": 91,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "SSMC",
+        "date": "July 19"
+    },
+    {
+        "id": 92,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "SSMC",
+        "date": "July 19"
+    },
+    {
+        "id": 93,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "SSMC",
+        "date": "July 19"
+    },
+    {
+        "id": 94,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "SSMC",
+        "date": "July 19"
+    },
+    {
+        "id": 95,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "SSMC",
+        "date": "July 19"
+    },
+    {
+        "id": 96,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "SSMC",
+        "date": "July 19"
+    },
+    {
+        "id": 97,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Mugda Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 98,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Mugda Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 99,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Mugda Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 100,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Mugda Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 101,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Uttara",
+        "date": "July 19"
+    },
+    {
+        "id": 102,
+        "name": "Sazzal Hossain",
+        "age": 28,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Rangpur",
+        "date": "July 19"
+    },
+    {
+        "id": 103,
+        "name": "Meraj",
+        "age": 40,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Rangpur Medical College",
+        "date": "July 19"
+    },
+    {
+        "id": 104,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Rangpur Medical College",
+        "date": "July 19"
+    },
+    {
+        "id": 105,
+        "name": "Mozammel",
+        "age": 32,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Rangpur Medical College",
+        "date": "July 19"
+    },
+    {
+        "id": 106,
+        "name": "Mokhlesur Rahman Milon",
+        "age": 25,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Rangpur",
+        "date": "July 19"
+    },
+    {
+        "id": 107,
+        "name": "Maun",
+        "age": 25,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Rangpur",
+        "date": "July 19"
+    },
+    {
+        "id": 108,
+        "name": "Abdur Rashid",
+        "age": 70,
+        "occupation": "not found yet",
+        "cause_of_death": "Hold/Raid",
+        "location": "Fazlul Haque Road, Sirajganj",
+        "date": "July 19"
+    },
+    {
+        "id": 109,
+        "name": "Siam",
+        "age": 16,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Amtala Mor, Bogura",
+        "date": "July 19"
+    },
+    {
+        "id": 110,
+        "name": "Ehsanul Haque",
+        "age": 22,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "not found yet",
+        "date": "July 19"
+    },
+    {
+        "id": 111,
+        "name": "ATM Torab",
+        "age": 30,
+        "occupation": "Journalist",
+        "cause_of_death": "not found yet",
+        "location": "Sylhet",
+        "date": "July 19"
+    },
+    {
+        "id": 112,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Narsingdi",
+        "date": "July 19"
+    },
+    {
+        "id": 113,
+        "name": "Sagar",
+        "age": 16,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Mymensingh",
+        "date": "July 19"
+    },
+    {
+        "id": 114,
+        "name": "Al Amin",
+        "age": 24,
+        "occupation": "Daraz Employee (Student)",
+        "cause_of_death": "not found yet",
+        "location": "Enam Medical College Hospital, Savar",
+        "date": "July 19"
+    },
+    {
+        "id": 115,
+        "name": "Shahjalal",
+        "age": 26,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 116,
+        "name": "Parvez",
+        "age": 23,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 117,
+        "name": "Jewel",
+        "age": 25,
+        "occupation": "Ansar",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Daily Bangla Mor",
+        "date": "July 19"
+    },
+    {
+        "id": 118,
+        "name": "Ifti",
+        "age": "16/14",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, in front of Anabil Hospital, Kazla",
+        "date": "July 19"
+    },
+    {
+        "id": 119,
+        "name": "Unknown",
+        "age": 41,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 120,
+        "name": "Shakil",
+        "age": 22,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 121,
+        "name": "Unknown",
+        "age": 30,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 122,
+        "name": "Rajib",
+        "age": 30,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 123,
+        "name": "Al Amin",
+        "age": 18,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Uttara Modern Medical College Hospital, Kamarpura, Uttara",
+        "date": "July 19"
+    },
+    {
+        "id": 124,
+        "name": "Naima Sultana",
+        "age": 15,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Uttara Modern Medical College Hospital, Home",
+        "date": "July 19"
+    },
+    {
+        "id": 125,
+        "name": "Nurul Islam",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Uttara Modern Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 126,
+        "name": "Jamal Mollah",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Uttara Modern Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 127,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Uttara Modern Medical College Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 128,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Crescent Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 129,
+        "name": "Mohammad Siam",
+        "age": 18,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "not found yet",
+        "date": "July 19"
+    },
+    {
+        "id": 130,
+        "name": "Hridoy Mir",
+        "age": 18,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "not found yet",
+        "date": "July 19"
+    },
+    {
+        "id": 131,
+        "name": "Sujon Mia",
+        "age": 17,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "not found yet",
+        "date": "July 19"
+    },
+    {
+        "id": 132,
+        "name": "Amjad Hossain",
+        "age": 22,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "not found yet",
+        "date": "July 19"
+    },
+    {
+        "id": 133,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "not found yet",
+        "date": "July 19"
+    },
+    {
+        "id": 134,
+        "name": "Asif Iqbal",
+        "age": 29,
+        "occupation": "Former Student",
+        "cause_of_death": "not found yet",
+        "location": "Magura, Dhaka",
+        "date": "July 19"
+    },
+    {
+        "id": 135,
+        "name": "Mottakin Billah",
+        "age": 25,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Magura, Dhaka",
+        "date": "July 19"
+    },
+    {
+        "id": 136,
+        "name": "Raju",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Magura",
+        "date": "July 19"
+    },
+    {
+        "id": 137,
+        "name": "Atikul Islam",
+        "age": 32,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Patuakhali, Mirpur-10",
+        "date": "July 19"
+    },
+    {
+        "id": 138,
+        "name": "Unknown",
+        "age": 20,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Mitford Hospital, Lakshmibazar, Dhaka",
+        "date": "July 19"
+    },
+    {
+        "id": 139,
+        "name": "Unknown",
+        "age": 40,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Mitford Hospital, Dhaka",
+        "date": "July 19"
+    },
+    {
+        "id": 140,
+        "name": "Rohan",
+        "age": 20,
+        "occupation": "Student, HSC examinee",
+        "cause_of_death": "not found yet",
+        "location": "Mitford Hospital, Dhaka, Jatrabari",
+        "date": "July 19"
+    },
+    {
+        "id": 141,
+        "name": "Russell",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Mitford Hospital, Dhaka, Jatrabari",
+        "date": "July 19"
+    },
+    {
+        "id": 142,
+        "name": "Bandhon",
+        "age": 19,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital, Dhaka",
+        "date": "July 19"
+    },
+    {
+        "id": 143,
+        "name": "Mohammad Jubair",
+        "age": 40,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Kuwait Bangladesh Friendship Hospital",
+        "date": "July 19"
+    },
+    {
+        "id": 144,
+        "name": "Mohammad Roman",
+        "age": 25,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Staff Hospital, Lab Aid",
+        "date": "July 19"
+    },
+    {
+        "id": 145,
+        "name": "Asikul Islam Ilyas Asik",
+        "age": 15,
+        "occupation": "Madrasah Student",
+        "cause_of_death": "Shot",
+        "location": "Banshree Hospital, Banshree, Dhaka",
+        "date": "July 19"
+    },
+    {
+        "id": 146,
+        "name": "Roman Bepari",
+        "age": 32,
+        "occupation": "Truck Driver",
+        "cause_of_death": "Shot",
+        "location": "Madaripur, Char Mogoria, Sarvik Petrol Pump, New Bus Station",
+        "date": "July 19"
+    },
+    {
+        "id": 147,
+        "name": "Touhid Sannamat",
+        "age": 20,
+        "occupation": "Madrasah Student",
+        "cause_of_death": "Shot",
+        "location": "Madaripur, Char Mogoria, Sarvik Petrol Pump, New Bus Station",
+        "date": "July 19"
+    },
+    {
+        "id": 148,
+        "name": "Mohammad Imran Khalifa",
+        "age": 33,
+        "occupation": "Private School Teacher",
+        "cause_of_death": "Shot",
+        "location": "Khilbari Tek, Shahjadpur, Dhaka",
+        "date": "July 19"
+    },
+    {
+        "id": 149,
+        "name": "Alamgir Sheikh",
+        "age": 35,
+        "occupation": "Driver",
+        "cause_of_death": "Shot",
+        "location": "BTV Center, BTV",
+        "date": "July 19"
+    },
+    {
+        "id": 150,
+        "name": "Monir",
+        "age": 18,
+        "occupation": "Painter",
+        "cause_of_death": "Shot",
+        "location": "Banshtala, Badda",
+        "date": "July 19"
+    },
+    {
+        "id": 151,
+        "name": "Hasnain",
+        "age": 25,
+        "occupation": "Dishline Employee",
+        "cause_of_death": "Shot",
+        "location": "Mohammadpur",
+        "date": "July 19"
+    },
+    {
+        "id": 152,
+        "name": "Safkat Samir",
+        "age": 11,
+        "occupation": "Madrasah Student",
+        "cause_of_death": "Shot",
+        "location": "Kafrul, Mirpur",
+        "date": "July 19"
+    },
+    {
+        "id": 153,
+        "name": "ASI Moqtadir",
+        "age": 48,
+        "occupation": "Tourist Police",
+        "cause_of_death": "Mob Beating",
+        "location": "Dhaka Medical College Hospital, Shonir Akhra, Rayerbazar, Jatrabari",
+        "date": "July 20"
+    },
+    {
+        "id": 154,
+        "name": "Naik Giasuddin",
+        "age": 58,
+        "occupation": "DMP Police",
+        "cause_of_death": "Mob Beating",
+        "location": "Dhaka Medical College Hospital, under the Foot Over Bridge, Rayerbazar",
+        "date": "July 20"
+    },
+    {
+        "id": 155,
+        "name": "Imam Hossain Tajim",
+        "age": 19,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Shonir Akhra and Jatrabari area",
+        "date": "July 20"
+    },
+    {
+        "id": 156,
+        "name": "Jisan",
+        "age": 33,
+        "occupation": "Water Seller",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Shonir Akhra and Jatrabari area",
+        "date": "July 20"
+    },
+    {
+        "id": 157,
+        "name": "Yunus Ali Shawon",
+        "age": 25,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Shonir Akhra and Jatrabari area",
+        "date": "July 20"
+    },
+    {
+        "id": 158,
+        "name": "Yusuf Mia Ilyas Sanowar Hossain",
+        "age": "35/40",
+        "occupation": "Rice Trader",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Shonir Akhra and Jatrabari area",
+        "date": "July 20"
+    },
+    {
+        "id": 159,
+        "name": "Habib Sardar",
+        "age": "30/40",
+        "occupation": "CNG Driver",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Shonir Akhra and Jatrabari area",
+        "date": "July 20"
+    },
+    {
+        "id": 160,
+        "name": "Kamrul Mia",
+        "age": 27,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Mirpur",
+        "date": "July 20"
+    },
+    {
+        "id": 161,
+        "name": "Sohel",
+        "age": "35/23",
+        "occupation": "Mobile Shop Employee",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Kodomtoli",
+        "date": "July 20"
+    },
+    {
+        "id": 162,
+        "name": "Arif",
+        "age": 35,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Signboard, Narayanganj, Shonir Akhra",
+        "date": "July 20"
+    },
+    {
+        "id": 163,
+        "name": "Unknown Child",
+        "age": 10,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Signboard, Narayanganj",
+        "date": "July 20"
+    },
+    {
+        "id": 164,
+        "name": "Abdul Hannan",
+        "age": 35,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Batarra, Dhaka",
+        "date": "July 20"
+    },
+    {
+        "id": 165,
+        "name": "Shuvo",
+        "age": 16,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Batarra, Dhanmondi, Dhaka",
+        "date": "July 20"
+    },
+    {
+        "id": 166,
+        "name": "Abdullah Al Abir",
+        "age": 23,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Batarra, Dhaka",
+        "date": "July 20"
+    },
+    {
+        "id": 167,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "SS Sohrawardy Medical College Hospital",
+        "date": "July 20"
+    },
+    {
+        "id": 168,
+        "name": "Rakib",
+        "age": 19,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Mymensingh Medical College, Kaltapara, Gouripur Upazila",
+        "date": "July 20"
+    },
+    {
+        "id": 169,
+        "name": "Jubair",
+        "age": 21,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Mymensingh Medical College, Kaltapara, Gouripur Upazila",
+        "date": "July 20"
+    },
+    {
+        "id": 170,
+        "name": "Mohammad Bipul",
+        "age": 18,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Mymensingh Medical College, Kaltapara, Gouripur Upazila",
+        "date": "July 20"
+    },
+    {
+        "id": 171,
+        "name": "Saiful Islam",
+        "age": 42,
+        "occupation": "Farmer",
+        "cause_of_death": "Shot",
+        "location": "Mymensingh Medical College, Amakanda Bridge, Fulpur, Mymensingh",
+        "date": "July 20"
+    },
+    {
+        "id": 172,
+        "name": "Korban Ali",
+        "age": 60,
+        "occupation": "Poultry Businessman",
+        "cause_of_death": "Shot",
+        "location": "Enam Medical College, Savar, Dhaka",
+        "date": "July 20"
+    },
+    {
+        "id": 173,
+        "name": "Mehedi Hasan",
+        "age": 24,
+        "occupation": "Mason",
+        "cause_of_death": "Shot",
+        "location": "Enam Medical College, Bazaar Road, Savar, Dhaka",
+        "date": "July 20"
+    },
+    {
+        "id": 174,
+        "name": "Shad Mahmud Khan",
+        "age": 14,
+        "occupation": "Madrasah Student",
+        "cause_of_death": "Shot",
+        "location": "Enam Medical College, Savar, Dhaka",
+        "date": "July 20"
+    },
+    {
+        "id": 175,
+        "name": "Roni",
+        "age": 27,
+        "occupation": "Rickshaw Driver",
+        "cause_of_death": "Shot",
+        "location": "Enam Medical College, Savar Bus Stand, Dhaka",
+        "date": "July 20"
+    },
+    {
+        "id": 176,
+        "name": "Mohammad Raihan",
+        "age": 18,
+        "occupation": "Garment Worker",
+        "cause_of_death": "Shot",
+        "location": "S Tajuddin AMCH, Board Bazaar Area, Chandna Chaurasta",
+        "date": "July 20"
+    },
+    {
+        "id": 177,
+        "name": "Nurul Amin",
+        "age": 21,
+        "occupation": "Daily Laborer",
+        "cause_of_death": "Shot",
+        "location": "S Tajuddin AMCH, Telipara Area, Joydebpur, Board Bazaar",
+        "date": "July 20"
+    },
+    {
+        "id": 178,
+        "name": "Tipu Sultan/Mohammad Tipu/Zahirul Islam",
+        "age": "27/48",
+        "occupation": "not found yet",
+        "cause_of_death": "Mob Beating",
+        "location": "Shibpur Hospital, College Gate, Shibpur, Narsingdi",
+        "date": "July 20"
+    },
+    {
+        "id": 179,
+        "name": "Mobarak Ali",
+        "age": 13,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Green Life Hospital, Panthopath, Dhaka",
+        "date": "July 20"
+    },
+    {
+        "id": 180,
+        "name": "Hasan Mia",
+        "age": 45,
+        "occupation": "Daily Laborer",
+        "cause_of_death": "Shot",
+        "location": "Meherpara, Narsingdi",
+        "date": "July 20"
+    },
+    {
+        "id": 181,
+        "name": "Mohammad Mehedi",
+        "age": 20,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Near Pritam Tower, Shimrail, Siddhirganj",
+        "date": "July 20"
+    },
+    {
+        "id": 182,
+        "name": "Mohammad Hridoy",
+        "age": 28,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Sugandha Private Hospital, Near Pritam Tower, Shimrail, Siddhirganj",
+        "date": "July 20"
+    },
+    {
+        "id": 183,
+        "name": "Mohammad Shahin/Manik",
+        "age": 23,
+        "occupation": "Hotel Manager",
+        "cause_of_death": "Shot",
+        "location": "Sugandha Private Hospital, Near Pritam Tower, Shimrail, Siddhirganj",
+        "date": "July 20"
+    },
+    {
+        "id": 184,
+        "name": "Mohammad Sojal",
+        "age": 22,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Sugandha Private Hospital, Near Pritam Tower, Shimrail, Siddhirganj",
+        "date": "July 20"
+    },
+    {
+        "id": 185,
+        "name": "Minarul Islam",
+        "age": 25,
+        "occupation": "Garment Worker",
+        "cause_of_death": "Shot",
+        "location": "300 Bed Hospital, Narayanganj, Near Pritam Tower, Shimrail, Siddhirganj",
+        "date": "July 20"
+    },
+    {
+        "id": 186,
+        "name": "Rajib Hossain",
+        "age": 30,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Kodomtoli",
+        "date": "July 20"
+    },
+    {
+        "id": 187,
+        "name": "Maya Islam",
+        "age": 60,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, In front of her house, Rampura",
+        "date": "July 20"
+    },
+    {
+        "id": 188,
+        "name": "Amjad Hossain",
+        "age": "22/17",
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Itakhola Highway Police Station",
+        "date": "July 20"
+    },
+    {
+        "id": 189,
+        "name": "Hridoy Mir",
+        "age": 15,
+        "occupation": "Garage Mechanic Student",
+        "cause_of_death": "Shot",
+        "location": "Itakhola Highway Police Station",
+        "date": "July 20"
+    },
+    {
+        "id": 190,
+        "name": "Sujon Mia",
+        "age": 17,
+        "occupation": "Student/Votvoti/Leguna Driver",
+        "cause_of_death": "Shot",
+        "location": "Itakhola Highway Police Station",
+        "date": "July 20"
+    },
+    {
+        "id": 191,
+        "name": "Siam Ahmed",
+        "age": 19,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Itakhola Highway Police Station",
+        "date": "July 20"
+    },
+    {
+        "id": 192,
+        "name": "Unknown (Middle-aged)",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Velangor, Narsingdi",
+        "date": "July 20"
+    },
+    {
+        "id": 193,
+        "name": "Ashik Mia",
+        "age": 15,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Madhabdi, Narsingdi",
+        "date": "July 20"
+    },
+    {
+        "id": 194,
+        "name": "Humayun Kabir",
+        "age": 25,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Board Bazaar Area, Gazipur",
+        "date": "July 20"
+    },
+    {
+        "id": 195,
+        "name": "Tonoy Das/Tanmoy Das",
+        "age": 28,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Board Bazaar Area, Gazipur",
+        "date": "July 20"
+    },
+    {
+        "id": 196,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Koltapara, Gouripur Upazila, Mymensingh",
+        "date": "July 20"
+    },
+    {
+        "id": 197,
+        "name": "Unknown (25)",
+        "age": 25,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital/AMZDH, Badda, Dhaka",
+        "date": "July 20"
+    },
+    {
+        "id": 198,
+        "name": "Kamrul Mia",
+        "age": 27,
+        "occupation": "Furniture Worker",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital/AMZDH, Badda, Dhaka",
+        "date": "July 20"
+    },
+    {
+        "id": 199,
+        "name": "Jahangir",
+        "age": 40,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Jatrabari",
+        "date": "July 20"
+    },
+    {
+        "id": 200,
+        "name": "Rubel Mia",
+        "age": "20/30",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Sugandha Private Hospital, Near Pritam Tower, Shimrail, Siddhirganj",
+        "date": "July 20"
+    },
+    {
+        "id": 201,
+        "name": "Unknown",
+        "age": 27,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Azimpur, Dhaka",
+        "date": "July 20"
+    },
+    {
+        "id": 202,
+        "name": "Shahriar",
+        "age": "19/23",
+        "occupation": "Madrasah Student",
+        "cause_of_death": "Shot",
+        "location": "Shonir Akhra and Jatrabari Area",
+        "date": "July 20"
+    },
+    {
+        "id": 203,
+        "name": "Unknown",
+        "age": 20,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Jatrabari, Dhaka",
+        "date": "July 20"
+    },
+    {
+        "id": 204,
+        "name": "Mohammad Shakil",
+        "age": 22,
+        "occupation": "Garment Worker",
+        "cause_of_death": "Shot",
+        "location": "Bashila, Mohammadpur",
+        "date": "July 20"
+    },
+    {
+        "id": 205,
+        "name": "Unknown",
+        "age": 30,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Bashila, Mohammadpur",
+        "date": "July 20"
+    },
+    {
+        "id": 206,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Gutiya International Hospital, Tongi Area, Gazipur",
+        "date": "July 20"
+    },
+    {
+        "id": 207,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Gutiya International Hospital, Tongi Area, Gazipur",
+        "date": "July 20"
+    },
+    {
+        "id": 208,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "not found yet",
+        "date": "July 20"
+    },
+    {
+        "id": 209,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "National Institute of Trau, Barisal",
+        "date": "July 20"
+    },
+    {
+        "id": 210,
+        "name": "Selim Mondol",
+        "age": 29,
+        "occupation": "Mason",
+        "cause_of_death": "Died in Crossfire",
+        "location": "Narayanganj General Hospital, Haji Ibrahim Shopping Complex",
+        "date": "July 20"
+    },
+    {
+        "id": 211,
+        "name": "Abdus Salam",
+        "age": 22,
+        "occupation": "Mason",
+        "cause_of_death": "Died in Crossfire",
+        "location": "Narayanganj General Hospital, Haji Ibrahim Shopping Complex",
+        "date": "July 20"
+    },
+    {
+        "id": 212,
+        "name": "Sohel Ahmed",
+        "age": "42/21",
+        "occupation": "Mason",
+        "cause_of_death": "Died in Crossfire",
+        "location": "Narayanganj General Hospital, Haji Ibrahim Shopping Complex",
+        "date": "July 20"
+    },
+    {
+        "id": 213,
+        "name": "Adil Al Mahmood",
+        "age": "not found yet",
+        "occupation": "Employee",
+        "cause_of_death": "Shot",
+        "location": "Near North South University",
+        "date": "July 20"
+    },
+    {
+        "id": 214,
+        "name": "Mohammad Imran",
+        "age": 16,
+        "occupation": "Tailor",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Signboard",
+        "date": "July 21"
+    },
+    {
+        "id": 215,
+        "name": "Akash",
+        "age": 16,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Chittagong Road",
+        "date": "July 21"
+    },
+    {
+        "id": 216,
+        "name": "Unknown",
+        "age": 40,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Demra Staff Quarter",
+        "date": "July 21"
+    },
+    {
+        "id": 217,
+        "name": "Amin",
+        "age": 16,
+        "occupation": "Workshop Laborer",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Kodomtoli Gulban",
+        "date": "July 21"
+    },
+    {
+        "id": 218,
+        "name": "Jasim",
+        "age": 40,
+        "occupation": "Tea Seller",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 21"
+    },
+    {
+        "id": 219,
+        "name": "Rakib Bepari",
+        "age": 20,
+        "occupation": "Garment Worker",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Narayanganj, Fatulla",
+        "date": "July 21"
+    },
+    {
+        "id": 220,
+        "name": "Foyez",
+        "age": 30,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Signboard, Narayanganj",
+        "date": "July 21"
+    },
+    {
+        "id": 221,
+        "name": "Mohammad Zakir/Mohammad Jahid",
+        "age": 32,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Uttara, Dhaka",
+        "date": "July 21"
+    },
+    {
+        "id": 222,
+        "name": "Toufiqul Islam",
+        "age": 30,
+        "occupation": "Engineer, Petrobangla",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Badda, Dhaka",
+        "date": "July 21"
+    },
+    {
+        "id": 223,
+        "name": "Sohag",
+        "age": 24,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Gopibagh Rail Gate",
+        "date": "July 21"
+    },
+    {
+        "id": 224,
+        "name": "Mohammad Rabbi/Abdul Bari",
+        "age": 17,
+        "occupation": "Student, Tailor",
+        "cause_of_death": "Shot",
+        "location": "Shekherchar Mazar Bus Stand",
+        "date": "July 21"
+    },
+    {
+        "id": 225,
+        "name": "Mohammad Nahid Mia",
+        "age": 30,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Shekherchar Mazar Bus Stand",
+        "date": "July 21"
+    },
+    {
+        "id": 226,
+        "name": "Ali Hossain",
+        "age": 45,
+        "occupation": "Tailor",
+        "cause_of_death": "Shot",
+        "location": "Shekherchar Mazar Bus Stand",
+        "date": "July 21"
+    },
+    {
+        "id": 227,
+        "name": "Unknown",
+        "age": 25,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Narsingdi Sadar Hospital, Shekherchar Mazar Bus Stand",
+        "date": "July 21"
+    },
+    {
+        "id": 228,
+        "name": "Humayun Ahmed",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Shaheed Tajuddin Ahmad, Gazipur",
+        "date": "July 21"
+    },
+    {
+        "id": 229,
+        "name": "Pranay Das",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Shaheed Tajuddin Ahmad, Gazipur",
+        "date": "July 21"
+    },
+    {
+        "id": 230,
+        "name": "Unknown",
+        "age": 25,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "300 Bed Hospital Narayanganj, Siddhirganj Narayanganj",
+        "date": "July 21"
+    },
+    {
+        "id": 231,
+        "name": "Abdul Mujib",
+        "age": 28,
+        "occupation": "Covered Van Driver",
+        "cause_of_death": "Burned",
+        "location": "Chauddagram, Hajiangan Thana, Chandpur",
+        "date": "July 21"
+    },
+    {
+        "id": 232,
+        "name": "Nabi Noor",
+        "age": 41,
+        "occupation": "Fish Trader",
+        "cause_of_death": "Shot",
+        "location": "Enam Medical College, Savar",
+        "date": "July 21"
+    },
+    {
+        "id": 233,
+        "name": "Shafiqul Islam",
+        "age": 25,
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Dhaka Medical College Hospital, Dakshin Paribag",
+        "date": "July 21"
+    },
+    {
+        "id": 234,
+        "name": "Masud Parvez",
+        "age": "not found yet",
+        "occupation": "Police",
+        "cause_of_death": "not found yet",
+        "location": "Rajarbari Central Police Hospital, Dhaka",
+        "date": "July 21"
+    },
+    {
+        "id": 235,
+        "name": "Milon Mia",
+        "age": 30,
+        "occupation": "Fish Trader",
+        "cause_of_death": "Shot",
+        "location": "Siddhirganj, Narayanganj",
+        "date": "July 21"
+    },
+    {
+        "id": 236,
+        "name": "Sumaiya Akhtar Sumi",
+        "age": 20,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Siddhirganj, Narayanganj",
+        "date": "July 21"
+    },
+    {
+        "id": 237,
+        "name": "Sajib Mia",
+        "age": 17,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Siddhirganj, Narayanganj",
+        "date": "July 21"
+    },
+    {
+        "id": 238,
+        "name": "Ashikur Rahman",
+        "age": 19,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Signboard, Narayanganj",
+        "date": "July 21"
+    },
+    {
+        "id": 239,
+        "name": "Babul",
+        "age": 28,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Signboard, Narayanganj",
+        "date": "July 21"
+    },
+    {
+        "id": 240,
+        "name": "Mohammad Sharif",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Sanarpar, Narayanganj",
+        "date": "July 21"
+    },
+    {
+        "id": 241,
+        "name": "Abdul Latif",
+        "age": 27,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Jatrabari, Dhaka",
+        "date": "July 21"
+    },
+    {
+        "id": 242,
+        "name": "Yusuf Ali Sohan",
+        "age": 16,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Shonirakhra, Dhaka",
+        "date": "July 21"
+    },
+    {
+        "id": 243,
+        "name": "Mohammad Hannan",
+        "age": 30,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Badda, Dhaka",
+        "date": "July 21"
+    },
+    {
+        "id": 244,
+        "name": "Faruk",
+        "age": "45/22",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Enam Medical Hospital, Savar",
+        "date": "July 21"
+    },
+    {
+        "id": 245,
+        "name": "Russell",
+        "age": 20,
+        "occupation": "Tempo Helper",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Dhania, Dhaka",
+        "date": "July 22"
+    },
+    {
+        "id": 246,
+        "name": "Azizul Mia",
+        "age": 22,
+        "occupation": "Employee",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 22"
+    },
+    {
+        "id": 247,
+        "name": "Santu",
+        "age": 22,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Burn Institute",
+        "date": "July 22"
+    },
+    {
+        "id": 248,
+        "name": "Syed Golam Mustafa Raju",
+        "age": 36,
+        "occupation": "Engineer, MOISTRI",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Burn Institute",
+        "date": "July 22"
+    },
+    {
+        "id": 249,
+        "name": "Unknown",
+        "age": 35,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Burn Institute",
+        "date": "July 22"
+    },
+    {
+        "id": 250,
+        "name": "Monir Hossain",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Siddhirganj, Narayanganj",
+        "date": "July 22"
+    },
+    {
+        "id": 251,
+        "name": "Hridoy Chandra Tarua",
+        "age": 22,
+        "occupation": "Student, CU",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital",
+        "date": "July 23"
+    },
+    {
+        "id": 252,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Enam Medical College Hospital, Savar",
+        "date": "July 23"
+    },
+    {
+        "id": 253,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Enam Medical College Hospital, Savar",
+        "date": "July 23"
+    },
+    {
+        "id": 254,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Shaheed Sohrawardy Medical College Hospital",
+        "date": "July 23"
+    },
+    {
+        "id": 255,
+        "name": "Unknown",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "not found yet",
+        "location": "Shaheed Sohrawardy Medical College Hospital",
+        "date": "July 23"
+    },
+    {
+        "id": 256,
+        "name": "Shubho Shish",
+        "age": 24,
+        "occupation": "Garment Worker",
+        "cause_of_death": "Shot",
+        "location": "Enam Medical College Hospital, Savar",
+        "date": "July 23"
+    },
+    {
+        "id": 257,
+        "name": "Unknown",
+        "age": 22,
+        "occupation": "not found yet",
+        "cause_of_death": "Head Injury",
+        "location": "Institute of Neuroscience, Uttara",
+        "date": "July 23"
+    },
+    {
+        "id": 258,
+        "name": "Shahriar Shubho",
+        "age": 28,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Institute of Neuroscience, Mirpur-1",
+        "date": "July 23"
+    },
+    {
+        "id": 259,
+        "name": "Nasir Hossain",
+        "age": "not found yet",
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "Mugda General Hospital, Rayebag, Jatrabari",
+        "date": "July 23"
+    },
+    {
+        "id": 260,
+        "name": "Riya Gop",
+        "age": 6,
+        "occupation": "Student",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Shot in the Rooftop",
+        "date": "July 24"
+    },
+    {
+        "id": 261,
+        "name": "Shahjahan Hridoy",
+        "age": 21,
+        "occupation": "Madrasah Student",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Level Crossing, SK Tower, Mohakhali",
+        "date": "July 24"
+    },
+    {
+        "id": 262,
+        "name": "Sajedur Rahman Omar",
+        "age": 22,
+        "occupation": "IT Technician",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Signboard Area, Konapara, Demra",
+        "date": "July 24"
+    },
+    {
+        "id": 263,
+        "name": "Tuhin Ahmed",
+        "age": 26,
+        "occupation": "Mason",
+        "cause_of_death": "Shot",
+        "location": "Enam Medical College Hospital, Savar",
+        "date": "July 24"
+    },
+    {
+        "id": 264,
+        "name": "Zakir Hossain",
+        "age": 29,
+        "occupation": "Tailor",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Jatrabari",
+        "date": "July 25"
+    },
+    {
+        "id": 265,
+        "name": "Jaman Mia",
+        "age": 17,
+        "occupation": "Laborer",
+        "cause_of_death": "Shot",
+        "location": "Dhaka Medical College Hospital, Mymensingh",
+        "date": "July 25"
+    },
+    {
+        "id": 266,
+        "name": "Sohel Rana",
+        "age": 20,
+        "occupation": "not found yet",
+        "cause_of_death": "Shot",
+        "location": "BSMMU, Rampura",
+        "date": "July 25"
+    }
+
+]
